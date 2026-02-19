@@ -19,7 +19,7 @@ pip install scapy
 
 Basic Analysis
 To analyze an existing capture file:
-python ids.py capture.pcap
+python main.py capture.pcap
 
 ## 📊 Analysis Workflow
 The IDS engine follows a multi-stage pipeline:
