@@ -1,4 +1,4 @@
-# 🛡️ Lightweight IDS (Python Version)
+# 🛡️ Lightweight IDS
 
 A high-performance, signature-based Intrusion Detection System (IDS) written in Python using **Scapy**. This tool analyzes `.pcap` files to detect common network attacks through packet-level inspection and behavioral analysis.
 
